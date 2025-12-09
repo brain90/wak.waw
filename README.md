@@ -26,8 +26,6 @@ Agar bisa melayani pengiriman dari internet. Expose wak.waw via reverse proxy. L
 # Motivasi
 Sony ingin broadcast ke 3000 lebih pelanggan. Namun semua bot beredar tidak ada yang memuaskan. Sony memutuskan membuat bot pribadi. Setelah jalan dan stabil. Sony Berpikir. Jika semua user base ada di telegram. Sony tidaklah perlu membuang waktu membuat bot ini. 
 
-Tapi Sony tetaplah Sony. 
-
 # Tribute
 All Hail Junjungan Kami. 
 
