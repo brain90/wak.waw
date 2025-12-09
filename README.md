@@ -31,5 +31,6 @@ Tapi Sony tetaplah Sony.
 # Tribute
 All Hail Junjungan Kami. 
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/db8f4e2a-c176-46af-a8b5-5b97b22069de" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/65b5ce99-6f5f-4bb4-859a-b6b85555e8ff" />
+
 
