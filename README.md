@@ -4,6 +4,11 @@ Semua bot yang beredar overkill. Sony hanya butuh daemon. yang :
 * Mendukung simple Fault Tolerance
 * Tidak terdeteksi sebagai spammer oleh w/a pusat
 
+# Performa & Limitasi
+* Wak.Waw sdh dideploy di sebuah perusahaan nasional utk notifikasi pelanggan dalam volume besar.
+* Battle tested untuk pemrosesan ribuan nomor dan jutaan pesan
+* Meski wakWaw sudah meng-emulasi pengiriman natural. Anda tetap harus bijak mengatur volume dan pola pengiriman agar tidak dianggap spammer.
+ 
 # Instalasi
 * npm install 
 * npm install pm2@latest -g
