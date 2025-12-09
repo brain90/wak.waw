@@ -1,0 +1,22 @@
+<html>
+
+<!--
+Anda bisa letakkan ini di apps yg hendak diintegrasi
+Sehingga tidak perlu manual scan qr via terminal
+-->
+
+<body>
+    <img alt="allowed-ip-only / services problem"></img>
+    <script>
+
+window.addEventListener('load', () => {
+    fetch('http://localhost:8000/qr')
+        .then(r => r.json())
+        .then(d => {
+            document.querySelector('img').src = d.qr;
+        });
+});
+    </script>
+</body>
+ 
+<html>
