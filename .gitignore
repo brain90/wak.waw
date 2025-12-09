@@ -1,0 +1,4 @@
+.package*.json
+.wwebjs_auth
+.wwebjs_cache
+node_modules
