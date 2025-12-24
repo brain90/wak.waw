@@ -107,7 +107,8 @@ function randomDelay(min, max) {
 
 function startQueueProcessor() {
   const scheduleNext = () => {
-    const delay = randomDelay(8000, 25000);
+    // delay aman: 15 s.d 20 menit
+    const delay = randomDelay(900000, 1200000);
     setTimeout(async () => {
       await processMessageQueue();
       scheduleNext();
